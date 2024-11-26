@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\універ\лаби з алгоритмізації і програмування\LB12.3A\LB12.3A\main.cpp(180,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\універ\лаби з алгоритмізації і програмування\LB12.3A\LB12.3A\main.cpp(208,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LB12.3A.vcxproj -> D:\універ\лаби з алгоритмізації і програмування\LB12.3A\x64\Debug\LB12.3A.exe
